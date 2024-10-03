@@ -3,7 +3,7 @@ assets
 content
 data
 i18n
-images
+/images/
 layouts
 static
 themes
