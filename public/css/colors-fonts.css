@@ -1,0 +1,35 @@
+/* https://colorpalettes.net/color-palette-373/*/
+
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Gloria+Hallelujah&family=Roboto:wght@400;700&display=swap');
+
+.gloria-hallelujah-regular {
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.architects-daughter-regular {
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+}
+
+body,
+html {
+  height: 100%;
+  color: #181818;
+  color: #282828;
+  line-height: 1.5;
+  text-align: justify;
+}

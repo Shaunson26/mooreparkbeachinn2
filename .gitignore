@@ -1,0 +1,15 @@
+archetypes
+assets
+content
+data
+i18n
+images
+layouts
+static
+themes
+.hugo_build.lock
+Customer-Infomation.txt
+hugo.yaml
+Moodboard.pptx
+Notes.txt
+web-dev-design-course.code-workspace
